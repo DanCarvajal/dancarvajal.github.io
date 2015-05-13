@@ -1,2 +1,5 @@
 body { padding-top: 50px;
 }
+
+.jumbotron { min-height: 400px;
+}
