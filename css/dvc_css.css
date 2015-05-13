@@ -27,6 +27,7 @@ body { padding-top: 50px;
 /*Change icons size here*/
 .social-icons .fa {
 	font-size: 2.2em;
+  margin: 10px  0;
 }
 /*Change icons circle size and color here*/
 .social-icons .fa {
