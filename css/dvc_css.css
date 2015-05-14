@@ -1,7 +1,14 @@
-body { padding-top: 50px;
+/*body { padding-top: 50px;
+}
+*/
+.jumbotron {
+  min-height: 400px;
+  margin-top: 0;
 }
 
-.jumbotron { min-height: 400px;
+.navbar{
+  background: rgba(0,0,0,0.1);
+  margin-bottom: 0px;
 }
 
 .featurette-divider {
