@@ -4,8 +4,8 @@
 .jumbotron {
   min-height: 400px;
   margin-top: 0;
-  background: url("images/DSC00593.jpg") center center;
-}
+  background-color: #1fa67a;
+  }
 
 .navbar{
   background: rgba(0,0,0,0.1);
