@@ -9,6 +9,11 @@
   background-size: cover; */
   }
 
+  .jumbotron .container {
+    padding-top: 100px;
+    max-width: 100%;
+  }
+
 .navbar {
   background: #301C35;
   margin: 0;
@@ -31,6 +36,11 @@
 }
 
 
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+  background-color: none !important;
+}
+
+
 .featurette-divider {
   margin: 30px 0;
 }
@@ -42,6 +52,14 @@
 	-ms-transition: all 0.3s ease-in-out;
 	-o-transition: all 0.3s ease-in-out;
 	transition: all 0.3s ease-in-out;
+}
+
+.navbar-default .navbar-nav li a:active, .navbar-default .navbar-nav li a:focus {
+  color: #ffffff;
+}
+
+.navbar-default .navbar-nav li a:visited {
+  color: #e0e0e0;
 }
 
 .navbar-default .navbar-nav li a:hover {
