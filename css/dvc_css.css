@@ -4,13 +4,22 @@
 .jumbotron {
   min-height: 400px;
   margin-top: 0;
-  background-image: url("../images/DSC00593.jpg");
-  background-size: cover;}
+  background: #DA514B;
+/*  background-image: url("../images/DSC00593.jpg");
+  background-size: cover; */
   }
 
-.navbar{
-  background: rgba(0,0,0,0.1);
-  margin-bottom: 0px;
+.navbar {
+  background: #301C35;
+  margin: 0;
+}
+
+.navbar-default {
+  border: none;
+}
+
+.navbar-default .navbar-collapse {
+  border: none;
 }
 
 .featurette-divider {
