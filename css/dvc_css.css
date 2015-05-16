@@ -4,7 +4,8 @@
 .jumbotron {
   min-height: 400px;
   margin-top: 0;
-  background-color: #1fa67a;
+  background-image: url("../images/DSC00593.jpg");
+  background-size: cover;}
   }
 
 .navbar{
