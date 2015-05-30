@@ -2,8 +2,8 @@
   min-height: 400px;
   margin-top: 0;
   background-color: #00BCD4;
-  }
 
+}
   .jumbotron .container {
     padding-top: 100px;
     max-width: 100%;
@@ -16,7 +16,7 @@
 
 
 .navbar {
-  background: #00838F;
+  background: #006064;
   margin: 0;
 }
 
@@ -38,7 +38,7 @@
 
 
 .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
-  background-color: #00838F;
+  background-color: #006064;
 }
 
 
