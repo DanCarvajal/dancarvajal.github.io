@@ -17,14 +17,12 @@
 span.highlight {
     background-color: #FF4081;
     color: #ffffff;
-    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.26);
-}
+  }
 
 .navbar {
   background: #0097A7;
   margin: 0;
   border-bottom: solid 1px #006064;
-  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.26);
 }
 
 .navbar-default {
@@ -108,7 +106,6 @@ span.highlight {
 	-ms-transition: all 0.3s ease-in-out;
 	-o-transition: all 0.3s ease-in-out;
 	transition: all 0.3s ease-in-out;
-  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.26);
 }
 
 .social-icons .fa:hover {
