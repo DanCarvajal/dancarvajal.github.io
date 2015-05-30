@@ -1,8 +1,7 @@
 .jumbotron {
   min-height: 400px;
   margin-top: 0;
-  background-image: url("../images/sassy.jpeg") ;
-  background-size: cover;
+  background-color: #00BCD4;
   }
 
   .jumbotron .container {
@@ -12,11 +11,12 @@
 
 .jumbotron .h1, .jumbotron h1 {
     color: #ffffff;
+    font-family: 'Source Code Pro';
 }
 
 
 .navbar {
-  background: #301C35;
+  background: #00838F;
   margin: 0;
 }
 
@@ -38,7 +38,7 @@
 
 
 .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
-  background-color: #301C35;
+  background-color: #00838F;
 }
 
 
@@ -95,7 +95,7 @@
 	line-height: 50px;
 	text-align: center;
   color: #ffffff;
-  background-color: #7e7e7e;
+  background-color: #FF80AB;
   -webkit-transition: all 0.3s ease-in-out;
 	-moz-transition: all 0.3s ease-in-out;
 	-ms-transition: all 0.3s ease-in-out;
@@ -104,23 +104,35 @@
 }
 
 .social-icons .fa:hover {
-  background-color: #000000;
+  background-color: #F50057;
 }
 
 .social-icons.icon-circle .fa{
 	border-radius: 50%;
 }
 
-/* Sticky footer styles
--------------------------------------------------- */
+/* Text Styles */
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 400;
+  line-height: 1.1;
+  color: inherit;
+}
+
 html {
   position: relative;
   min-height: 100%;
 }
 body {
+  font-family: 'Source Sans Pro', sans-serif;
   /* Margin bottom by footer height */
   margin-bottom: 100px;
 }
+
+/* Sticky footer styles
+-------------------------------------------------- */
+
 .footer {
   position: absolute;
   bottom: 0;
@@ -128,5 +140,5 @@ body {
   /* Set the fixed height of the footer here */
   height: 60px;
   padding-top: 20px;
-  background-color: #f5f5f5;
+  background-color: #B2EBF2;
 }
