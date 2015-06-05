@@ -12,3 +12,7 @@ github_username:  dancarvajal
 
 # Build settings
 markdown: kramdown
+
+kramdown:
+  auto_ids: true
+  input: GFM
