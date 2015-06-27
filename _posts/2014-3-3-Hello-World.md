@@ -1,10 +1,8 @@
 ---
 layout: post
-title: You're up and running!
+title: This is my first test blog post
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Bacon ipsum dolor amet chuck brisket venison picanha. Pastrami ham hock pork loin, spare ribs jowl drumstick beef t-bone. Meatloaf swine alcatra porchetta. Chicken short loin frankfurter landjaeger. Venison pork swine alcatra ribeye boudin. Brisket pork jowl shank ground round, pig capicola chuck tri-tip rump pastrami tenderloin short loin. Jowl hamburger brisket pork belly bresaola cow meatball shoulder ground round sausage tenderloin pig.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Hamburger beef tenderloin swine, sirloin pork loin ribeye pastrami ham. Prosciutto venison shoulder, frankfurter brisket corned beef shank ball tip kevin tenderloin. T-bone pork chop cupim sirloin pancetta meatloaf sausage meatball short loin rump kevin turkey leberkas kielbasa bacon. Sausage turducken shankle pork spare ribs strip steak.
