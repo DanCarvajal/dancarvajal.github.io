@@ -2,39 +2,17 @@
 layout: default
 ---
 
-<h1>testing</h1>
+<div class="posts">
+  {% for post in site.posts %}
+    <article class="post">
 
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
-<h2>Testing agian</h2>
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
 
-
-<h3>this is a test of the system</h3>
-
-<p>Bacon ipsum dolor amet beef ribs landjaeger ham hock kielbasa ground round. Cow cupim kevin swine boudin, picanha spare ribs bresaola tail porchetta. Leberkas alcatra meatball corned beef strip steak. Frankfurter spare ribs tenderloin, shankle hamburger shank beef ribs flank jerky capicola landjaeger bacon pork belly biltong. Bresaola tail pork chop sausage cupim shoulder, boudin ball tip. Turkey brisket filet mignon spare ribs.
-</p>
-
-<h1>testing</h1>
-
-
-<h2>Testing agian</h2>
-
-
-<h3>this is a test of the system</h3>
-
-<p>Bacon ipsum dolor amet beef ribs landjaeger ham hock kielbasa ground round. Cow cupim kevin swine boudin, picanha spare ribs bresaola tail porchetta. Leberkas alcatra meatball corned beef strip steak. Frankfurter spare ribs tenderloin, shankle hamburger shank beef ribs flank jerky capicola landjaeger bacon pork belly biltong. Bresaola tail pork chop sausage cupim shoulder, boudin ball tip. Turkey brisket filet mignon spare ribs.
-</p>
-
-<h1>testing</h1>
-
-
-<h2>Testing agian</h2>
-
-
-<h3>this is a test of the system</h3>
-
-<p>Bacon ipsum dolor amet beef ribs landjaeger ham hock kielbasa ground round. Cow cupim kevin swine boudin, picanha spare ribs bresaola tail porchetta. Leberkas alcatra meatball corned beef strip steak. Frankfurter spare ribs tenderloin, shankle hamburger shank beef ribs flank jerky capicola landjaeger bacon pork belly biltong. Bresaola tail pork chop sausage cupim shoulder, boudin ball tip. Turkey brisket filet mignon spare ribs.
-</p>
-
-
-{% capture my_include %}{% include test_content.md %}{% endcapture %}
-{{ my_include | markdownify }}
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
+</div>

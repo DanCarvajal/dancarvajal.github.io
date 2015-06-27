@@ -3,12 +3,12 @@
 
   {% include head.html %}
 
-  <body data-spy="scroll" data-target="#sidebar">
+  <body data-spy="scroll" data-target=".scrollspy">
     <div class="continer">
     {% include header.html %}
   </div>
     <div class="continer">
-      <div class="col-md-9" role="main">
+      <div class="col-md-8" role="main">
 
 
         {{ content }}
@@ -16,9 +16,7 @@
 
 
     </div>
-    <div class="col-md-3" role="complementary">
-      Sidebar
-          </div>
+  
     {% include footer.html %}
   </div>
   <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
