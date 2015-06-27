@@ -8,10 +8,5 @@
 @import "bootstrap-sprockets";
 @import "bootstrap";
 
-// import fontawesome
-@import "font-awesome-sprockets";
-@import "font-awesome";
-
-
-// define a colour based on a bootstrap colour
-$my-gray: $gray;
+// import css needed for salvattore
+@import "salvattore"
