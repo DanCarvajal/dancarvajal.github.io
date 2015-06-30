@@ -4,10 +4,26 @@
   border-color: none !important;
 }
 
+.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
+  color: #4f4f4f;
+  text-decoration: none;
+  background-image: none;
+}
+
 .navbar-default .navbar-nav a {
   color: #4f4f4f;
   text-decoration: none;
   background-image: none;
+}
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+  color: #4f4f4f;
+  text-decoration: none;
+  background-image: none;
+}
+
+.navbar-default .navbar-nav > li > a {
+  color: #4f4f4f;
 }
 
 .navbar-default .navbar-brand {
@@ -22,6 +38,7 @@
   line-height: 20px;
   height: 50px;
 }
+
 
 
 // Body
