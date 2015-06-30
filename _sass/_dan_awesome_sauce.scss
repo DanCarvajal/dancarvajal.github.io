@@ -66,7 +66,7 @@ h4 {
   margin-bottom: 22px;
   font-family: 'Oswald', sans-serif;
 }
-p, ul, ol, pre, table, blockquote {
+p, ul, ol, pre, table, {
 font-family: 'Quattrocento Sans', sans-serif;
   margin-top: 22px;
   margin-bottom: 22px;
@@ -92,6 +92,13 @@ sup, sub {
 sub {
   top: 0.4em;
 }
+
+blockquote {
+  padding: 0px 20px;
+  margin-top: 22px;
+  margin-bottom: 22px;
+}
+
 
 /* Link Styles */
 h2 a {
