@@ -4,6 +4,26 @@
   border-color: none !important;
 }
 
+.navbar-default .navbar-nav a {
+  color: #4f4f4f;
+  text-decoration: none;
+  background-image: none;
+}
+
+.navbar-default .navbar-brand {
+  color: #4f4f4f;
+  text-decoration: none;
+  background-image: none;
+}
+.navbar-brand {
+  float: left;
+  padding: 15px 15px;
+  font-size: 18px;
+  line-height: 20px;
+  height: 50px;
+}
+
+
 // Body
 
 body {
@@ -71,4 +91,26 @@ sup, sub {
 }
 sub {
   top: 0.4em;
+}
+
+/* Link Styles */
+h2 a {
+    color: #4f4f4f;
+    text-decoration: none;
+    background-image: none;
+}
+
+
+a {
+    color: #4f4f4f;
+    text-decoration: none;
+    background-image: linear-gradient(to bottom, white 75%, #333332 75%);
+    background-size: 2px 3px;
+    background-position: 0px 15px;
+    background-repeat: repeat-x;
+}
+
+a:hover, a:focus {
+  color: #4f4f4f;
+  text-decoration: none;
 }
