@@ -13,5 +13,6 @@ markdown: kramdown
 kramdown:
   input: GFM # Enable GitHub Flavored Markdown (fenced code blocks)
 
+excerpt: 50
 paginate: 5
 excerpt_separator: ""
