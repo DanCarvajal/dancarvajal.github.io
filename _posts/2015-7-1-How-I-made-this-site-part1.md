@@ -6,12 +6,79 @@ title: Duct Tape a Site Together
 
 Let's test this link [title](http://)
 
-{% highlight html %}
-<link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
-<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
-<link href='http://fonts.googleapis.com/css?family=Quattrocento|Oswald:400,300' rel='stylesheet' type='text/css'>
-</head>
-<p> this is a test </p>
+{% highlight css %}
+body {
+  font-size: 16px;
+  line-height: 22px;
+  padding-top: 44px;
+  color: #4f4f4f;
+  background-color: #F7F7F7;
+
+}
+
+// Type
+
+h1 {
+  font-family: 'Oswald', sans-serif;
+  font-size: 54px;
+  line-height: 66px;
+  margin-top: 44px;
+  margin-bottom: 22px;
+}
+h2 {
+  font-family: 'Oswald', sans-serif;
+  font-size: 36px;
+  line-height: 44px;
+  margin-top: 44px;
+  margin-bottom: 22px;
+}
+
+h3 {
+  font-size: 24px;
+  line-height: 44px;
+  margin-top: 22px;
+  margin-bottom: 22px;
+  font-family: 'Oswald', sans-serif;
+}
+h4 {
+  font-size: 16px;
+  line-height: 22px;
+  margin-top: 22px;
+  margin-bottom: 22px;
+  font-family: 'Oswald', sans-serif;
+}
+p, ul, ol, pre, table, {
+font-family: 'Quattrocento Sans', sans-serif;
+  margin-top: 22px;
+  margin-bottom: 22px;
+}
+
+/* Sanitation */
+hr {
+  border: 1px solid;
+  margin: -1px 0;
+}
+ul ul, ol ol, ul ol, ol ul {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+b, strong, em, small, code {
+  line-height: 1;
+}
+sup, sub {
+  vertical-align: baseline;
+  position: relative;
+  top: -0.4em;
+}
+sub {
+  top: 0.4em;
+}
+
+blockquote {
+  padding: 0px 20px;
+  margin-top: 22px;
+  margin-bottom: 22px;
+}
+
 
 {% endhighlight %}
