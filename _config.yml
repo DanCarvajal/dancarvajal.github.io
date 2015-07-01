@@ -1,12 +1,19 @@
 # Site settings
-title: Dan Carvajal testing
+title: Dan Carvajal
 email: dan.v.carvajal@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
 baseurl: "http://dancarvajal.github.io" # the subpath of your site, e.g. /blog/
 url: "http://dancarvajal.github.io" # the base hostname & protocol for your site
+description:      "Excpets from a unique person"
+
+author:
+  name:           Dan Carvajal
+  email:          "dan.v.carvajal@gmail.com"
+  uri:            "https://twitter.com/dan_v_c"
+  twitter:        dan_v_c
+  google_plus:    DanCarvajal
+  github:         DanCarvajal
+  linkedin:       DanCarvajal
+  country:        United States
 
 # Build settings
 markdown: kramdown
