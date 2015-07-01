@@ -1,12 +1,14 @@
 ---
 layout: page
 title: About
-description: "This is what I do."
+description: "Hello, I am Dan."
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I'm a designer-code-tinkerer type living and working in Washington, DC. I work at the [Tax Foundation](http://taxfoundation.org).
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+I have a BS in Economics from George Mason University, which is kind of cool.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+###Contact me
+
+{% include contact.html %}
