@@ -10,7 +10,5 @@ url: "http://dancarvajal.github.io" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
-kramdown:
-  input: GFM # Enable GitHub Flavored Markdown (fenced code blocks)
 
 paginate: 5
