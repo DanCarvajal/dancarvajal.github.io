@@ -1,5 +1,6 @@
 # Site settings
 site:  Dan Carvajal
+name: Dan Carvajal
 title: Dan Carvajal
 email: dan.v.carvajal@gmail.com
 baseurl: ""
