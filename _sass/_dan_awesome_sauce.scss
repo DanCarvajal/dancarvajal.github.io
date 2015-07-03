@@ -39,6 +39,16 @@
   height: 50px;
 }
 
+// Pagerination
+
+.pager li > a, .pager li > span {
+  display: inline-block;
+  padding: 5px 14px;
+  background-image: none;
+  background-color: #F7F7F7;
+  border: 1px solid #ddd;
+  border-radius: 0px;
+}
 
 
 // Body

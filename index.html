@@ -16,3 +16,22 @@ layout: default
     </article>
   {% endfor %}
 </div>
+
+
+
+{% if paginator.total_pages > 1 %}
+<nav itemscope itemtype="http://schema.org/SiteNavigationElement">
+  <ul class="pager">
+    {% if paginator.previous_page %}
+    <li class="previous">
+      <a itemprop="url" href="{{ paginator.previous_page_path | replace:'//','/' }}"><i class="fa fa-angle-double-left"></i> <span itemprop="name">Newer Posts</span></a>
+    </li>
+    {% endif %}
+    {% if paginator.next_page %}
+    <li class="next">
+      <a itemprop="url" href="{{ paginator.next_page_path | replace:'//','/' }}"><span itemprop="name">Older Posts</span> <i class="fa fa-angle-double-right"></i></a>
+    </li>
+    {% endif %}
+  </ul>
+</nav>
+{% endif %}
