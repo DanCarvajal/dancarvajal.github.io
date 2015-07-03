@@ -15,6 +15,10 @@ author:
   linkedin:       DanCarvajal
   country:        United States
 
+# Open Graph
+fb_admins:          http://facebook.com/dancarvajal
+fb_appid:           508362279313777
+
 # Build settings
 markdown: kramdown
 
