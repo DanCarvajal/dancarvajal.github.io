@@ -1,3 +1,37 @@
-<footer class="site-footer">
-  
+<!-- Footer -->
+<footer class="info-footer" role="contentinfo" itemscope itemtype="http://schema.org/WPFooter">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <ul class="list-inline text-center">
+          <li>
+            <a href="/feed.xml">
+                <i class="fa fa-rss"></i>
+            </a>
+          </li>
+          {% if site.author.twitter %}
+          <li>
+            <a rel="me" href="//twitter.com/{{ site.author.twitter }}">
+                <i class="fa fa-twitter"></i>
+            </a>
+          </li>
+          {% endif %}
+          {% if site.author.google_plus %}
+          <li>
+            <a rel="me" href="//google.com/+{{ site.author.linkedin }}">
+                <i class="fa fa-linkedin"></i>
+            </a>
+          </li>
+          {% endif %}
+          {% if site.author.github %}
+          <li>
+            <a rel="me" href="//github.com/{{ site.author.github }}">
+                <i class="fa fa-github"></i>
+            </a>
+          </li>
+          {% endif %}
+        </ul>
+      </div>
+    </div>
+  </div>
 </footer>
