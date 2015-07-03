@@ -2,23 +2,22 @@
 layout: default
 ---
 
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
+<!-- This loops through the paginated posts -->
+{% for post in paginator.posts %}
+  <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
 
-      <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+  <div class="content">
+    {{ post.excerpt }}
 
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
-</div>
+    <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+  </div>
+{% endfor %}
 
 
 
+
+
+<!-- Pagination links -->
 {% if paginator.total_pages > 1 %}
 <nav itemscope itemtype="http://schema.org/SiteNavigationElement">
   <ul class="pager">

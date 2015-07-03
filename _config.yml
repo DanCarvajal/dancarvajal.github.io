@@ -1,7 +1,7 @@
 # Site settings
 title: Dan Carvajal
 email: dan.v.carvajal@gmail.com
-# baseurl: "http://dancarvajal.com" # the subpath of your site, e.g. /blog/
+baseurl: ""
 # url: "http://dancarvajal.com" # the base hostname & protocol for your site
 description:      "Excpets from a unique person"
 
