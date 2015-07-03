@@ -1,10 +1,11 @@
 # Site settings
+site:  Dan Carvajal
 title: Dan Carvajal
 email: dan.v.carvajal@gmail.com
 baseurl: ""
 url: "http://dancarvajal.com" # the base hostname & protocol for your site
-description:      "Excpets from a unique person"
-locale:           en_us
+description: "The thoughts and writings of Dan Carcajal."
+locale: en_us
 
 
 author:

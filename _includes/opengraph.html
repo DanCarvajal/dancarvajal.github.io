@@ -15,17 +15,6 @@
   {% endfor %}
 {% endif %}
 
-{% if page.categories %}
-  {% for category in page.categories limit:1 %}
-  <meta property="article:section" content="{{ category }}">
-  {% endfor %}
-{% endif %}
-
-{% if page.tags %}
-  {% for tag in page.tags %}
-  <meta property="article:tag" content="{{ tag }}">
-  {% endfor %}
-{% endif %}
 
 <meta property="fb:admins" content="{{ site.fb_admins }}">
 <meta property="fb:app_id" content="{{ site.fb_appid }}">
