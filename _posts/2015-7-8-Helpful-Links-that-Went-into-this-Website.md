@@ -1,14 +1,8 @@
-# Dan Carvajal website (dancarvajal.com)
-
-
-The Jekyll build for [dancarvajal.com](http://dancarvajal.com).
-
-* Site: [dancarvajal.com](http://dancarvajal.com)
-* Twitter: [@dan_v_c](http://twitter.com/dan_v_c)
-
-Please learn, read, and use any code from this website. That's how I learned how to make it.
-
-Shout outs to the work of others that was very helpful in instructing me on how to build this website.
+---
+layout: post
+title: Helpful Links that Went into this Website
+---
+Hey just wanted to give some shout outs to the work of others that was very helpful in instructing me on how to build this website.
 
 [Jekyll Documentation](http://jekyllrb.com/docs/home/) for educational background.
 
