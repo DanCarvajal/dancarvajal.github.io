@@ -5,6 +5,7 @@ title: My New Fujifilm x100s
 {% include image.html url="https://raw.githubusercontent.com/DanCarvajal/dancarvajal.github.io/master/images/IMG_20150717_190821.jpg" description="fujifilm x100s next to Alpa 9d" %}
 
 Recently I managed to purchase a camera I have had my eye one for almost two years, a Fujifilm x100s. It takes a lot for me to want something for that long and not buy it, and in this case those reasons are:
+
 * It is not a very cheap camera. When it first came out it cost $1299.
 * I had already purchased two ultimately unsatisfactory cameras, a Sony Rx100 and a Pentax Kx.
 
@@ -21,6 +22,7 @@ My next camera was all about portability, a Sony RX100. The philosophy of how So
 There was one more flaw shared by both the Sony RX100 and the Pentax Kx, which was that to get the most out of them you have to shoot in RAW image format. Basically RAW is a special type of image that retains the most visional information possible in an image, but requires you to post process the files in sophisticated software. **I hate having to process images because of how long it takes to tease the best image possible out of a photo.** I hated post processing so much that I ended up taking hundreds of photos and just leaving them on my camera. I ended up  passing the RX100 along to my Dad.
 
 From everything I had learned I now I had a check list for a dream camera:
+
 * Small
 * Fast
 * Has an optical viewfinder (no more looking at screens)
