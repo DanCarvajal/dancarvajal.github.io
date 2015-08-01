@@ -4,7 +4,7 @@ title: Windows 10 First Impressions
 ---
 I'm generally deeply skeptical of when anyone claims a new developments in desktop operating systems. We've all seen too many desktop OS championed as "The future of desktop computing!" that ultimately deliver only minor improvements (looking at you OSX, for the last ten years). When it comes to OSes, you can say that I'm more of a Google Guy than a Microsoft Guy. I'm more concerned about how I access the web, not what OS I used to do it. I own an Android Phone, a Apple Laptop, and a Windows PC. But when I got the notification that my PC was ready to upgrade to Windows 10 I figured I'd play around with it. Here are my first impressions.
 
-##"It's Different!" but Windows Never Changes
+###"It's Different!" but Windows Never Changes
 
 This is an example conversation between me and Windows10 after having used it after a few minutes.
 
@@ -23,7 +23,7 @@ Windows10 is deeply familiar for good reason, Windows never changes. Windows 95 
 
 That's all you have to do with Windows10. Just like previous versions it runs on pretty much anything, and installs familiar programs. Now there are some minor improvements but there is nothing that aspires to be a great improvements into how we use computers. Ultimately it lacks an ultimate vision of what Windows will be in the future that Windows8 with all of its flaws had, which I find kind of sad.
 
-##What's the Future for Microsoft?
+###What's the Future for Microsoft?
 
 Microsoft in increasingly moving to be a pure IBM/Adobe/Oracle style software/services corporation. It very well may have always been this type of company but just happened to create the most popular desktop OS on the planet. However, the significance of the desktop OS is increasingly diminishing. The shift to web and mobile computing with things like Chrome, Android, and iOS, as well as any number of options for interacting with computers not on the desktop has forced Microsoft's hand.
 
