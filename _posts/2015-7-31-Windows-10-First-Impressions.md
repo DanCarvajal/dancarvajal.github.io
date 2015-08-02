@@ -8,9 +8,11 @@ I'm generally deeply skeptical of when anyone claims a new development in the wo
 
 This is an example conversation between me and Windows10 after having used it after a few minutes.
 
-> W10: “Look at how this is different!”
- Me: “Is it actually good?”
- W10: “It’s different!"
+>W10: “Look at how this is different!”
+>
+>Me: “Is it actually good?”
+> 
+>W10: “It’s different!"
 
 Every single aspect of the upgrade and user on boarding process is very in your face with *"It's Different*"". At first glance the entire user experience (UX) feels purposely designed to highlight how not Windows8 it is. While it's one thing to accept and admit the flaws of Windows8, the lengths that Microsoft has gone to show where they've made changes is really strange. All of this the *"It's Different"* seems out of place given that aside from the start menu and the killing of the "charms" menu, it's basically the same OS we've been using since Windows 95 from a UX standpoint.
 
