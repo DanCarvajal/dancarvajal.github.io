@@ -2,15 +2,15 @@
 layout: post
 title: Windows 10 First Impressions
 ---
-I'm generally deeply skeptical of when anyone claims a new developments in desktop operating systems. We've all seen too many desktop OS championed as "The future of desktop computing!" that ultimately deliver only minor improvements (looking at you OSX, for the last ten years). When it comes to OSes, you can say that I'm more of a Google Guy than a Microsoft Guy. I'm more concerned about how I access the web, not what OS I used to do it. I own an Android Phone, a Apple Laptop, and a Windows PC. But when I got the notification that my PC was ready to upgrade to Windows 10 I figured I'd play around with it. Here are my first impressions.
+I'm generally deeply skeptical of when anyone claims a new development in the world of desktop operating systems. We've all seen too many desktop OS championed as "The future of desktop computing!" that ultimately deliver only minor improvements (looking at you OSX, for the last ten years). When it comes to OSes, you can say that I'm more of a Google Guy than a Microsoft Guy. I'm more concerned about how I access the web, not what OS I used to do it. I own an Android Phone, a Apple Laptop, and a Windows PC. But when I got the notification that my PC was ready to upgrade to Windows 10 I figured I'd play around with it. Here are my first impressions.
 
 ###"It's Different!" but Windows Never Changes
 
 This is an example conversation between me and Windows10 after having used it after a few minutes.
 
 > W10: “Look at how this is different!”
-> Me: “Is it actually good?”
-> W10: “It’s different!"
+ Me: “Is it actually good?”
+ W10: “It’s different!"
 
 Every single aspect of the upgrade and user on boarding process is very in your face with *"It's Different*"". At first glance the entire user experience (UX) feels purposely designed to highlight how not Windows8 it is. While it's one thing to accept and admit the flaws of Windows8, the lengths that Microsoft has gone to show where they've made changes is really strange. All of this the *"It's Different"* seems out of place given that aside from the start menu and the killing of the "charms" menu, it's basically the same OS we've been using since Windows 95 from a UX standpoint.
 
