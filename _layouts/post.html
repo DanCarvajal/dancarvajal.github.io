@@ -4,12 +4,15 @@ layout: default
 <div class="post">
 
   <header class="post-header">
-    <h2 class="post-title">{{ page.title }}</h2>
-    <p class="post-meta" style="text-transform:uppercase; letter-spacing:1px">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+    <h1 class="post-title">{{ page.title }}</h1>
+    <div class="post-meta">
+    {{ page.date | date: '%b %-d, %Y' }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}
+  </div>
   </header>
 
   <article class="post-content">
     {{ content }}
   </article>
 
+{% include sharepage.html %}
 </div>
