@@ -13,7 +13,7 @@ The first thing I did was download my entire [Twitter Archive](https://support.t
 
 For the purposes of creating this data visual I really just wanted the CSV. So with the CSV in hand I set about cleaning the dataset and isolating the only the data I was interesting, the number of tweets per day. I deleted all the columns of data I wasn't interested in (like individual TweetIds) to get down to just a list of tweets with timestamps.
 
-The timestamps were in a `MM/DD/YYYY/00:00` format and since I was just interested in the day of a tweet left Excel and used [Atom's](https://atom.io/) multi cursor function to quickly delete the hour/minute information. (It's a neat little tick I learned for working with CSVs from my friend and coworker [Tom VanAntwerp](https://twitter.com/tvanantwerp])).
+The timestamps were in a `MM/DD/YYYY/00:00` format and since I was just interested in the day of a tweet so I left Excel and used [Atom's](https://atom.io/) multi cursor function to quickly delete the hour/minute information. (It's a neat little tick I learned for working with CSVs from my friend and coworker [Tom VanAntwerp](https://twitter.com/tvanantwerp])).
 
 Once I was down to just the date timestamps for every tweet I did a simple [Count Individual Values](https://support.office.com/en-sg/article/Count-unique-values-among-duplicates-8d9a69b3-b867-490e-82e0-a929fbc1e273) function back in Excel. This gave me a count of the number of duplicates of unique values which of course is the number of tweets in any given day.
 
