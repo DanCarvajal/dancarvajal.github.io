@@ -22,6 +22,7 @@ One histogram later here we are:
 {% include image.html url="https://raw.githubusercontent.com/DanCarvajal/dancarvajal.github.io/7fd9dd2b6ef279fea3f0b4eb2f90d80f4a0475c6/images/Tweets_over_time.png" description="my tweets over time." %}
 
 Some quick insights on the data:
+
 * I have tweeted on 1,365 different days.
 * My median number of tweets per day is 7 which seems about right when I look at my Buffer account which is set for minimum five tweets per day.
 * I was interested in the outlier days where I tweeted a ton but they were actually just batch uploads of Facebook image albums thanks to IFTT.
