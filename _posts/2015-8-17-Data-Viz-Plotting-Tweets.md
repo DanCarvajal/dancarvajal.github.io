@@ -19,7 +19,7 @@ Once I was down to just the date timestamps for every tweet I did a simple [Coun
 
 One histogram later here we are:
 
-{% include image.html url="hhttps://raw.githubusercontent.com/DanCarvajal/dancarvajal.github.io/7fd9dd2b6ef279fea3f0b4eb2f90d80f4a0475c6/images/Tweets_over_time.png" description="my tweets over time." %}
+{% include image.html url="https://raw.githubusercontent.com/DanCarvajal/dancarvajal.github.io/7fd9dd2b6ef279fea3f0b4eb2f90d80f4a0475c6/images/Tweets_over_time.png" description="my tweets over time." %}
 
 Some quick insights on the data:
 * I have tweeted on 1,365 different days.
