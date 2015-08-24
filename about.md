@@ -4,6 +4,7 @@ title: About
 description: "Hello, I am Dan."
 permalink: /about/
 ---
+{% include AboutPhoto.html %}
 
 Hi there! I'm Dan Carvajal, a designer-code-tinkerer type living and working in Washington, DC. I work at the [Tax Foundation](http://taxfoundation.org)  where I bring design and policy research together.
 
