@@ -18,3 +18,5 @@ I have many varied interest, here is a small sample:
 ##Contact me
 
 {% include contact.html %}
+
+{% include newsletter.html %}

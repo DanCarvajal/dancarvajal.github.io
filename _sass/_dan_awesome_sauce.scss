@@ -242,3 +242,61 @@ pre {
         }
     }
 }
+
+
+// Subscribe Button
+.btn-default {
+  display: inline-block;
+  padding: 5px 14px;
+  background-image: none;
+  background-color: #fff;
+  border: 1px solid #0033cc;
+  border-radius: 0px;
+  color: #0033cc;
+
+    &:hover {
+      display: inline-block;
+      padding: 5px 14px;
+      background-image: none;
+      background-color: #0033cc;
+      border: 1px solid #0033cc;
+      border-radius: 0px;
+      color: #fff;
+      -webkit-transition: all ease 0.7s;
+      -moz-transition: all ease 0.7s;
+      -o-transition: all ease 0.7s;
+      -ms-transition: all ease 0.7s ;
+      transition: all ease 0.5s ;
+    }
+
+}
+
+// Subscribe Form
+.form-control {
+    display: block;
+    width: 100px;
+    height: 31px;
+    padding: 5px 14px;
+    font-size: 14px;
+    line-height: 28px;
+    color: #555555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #0033cc;
+    border-radius: 0px;
+
+}
+
+// Form label
+label {
+    display: inline-block;
+    max-width: 100%;
+    height: 31px;
+    padding-right: 15px;
+    padding-left: 15px;
+    line-height: 28px;
+    margin-bottom: 5px;
+    font-weight: 400;
+    color: #0033cc;
+
+}
