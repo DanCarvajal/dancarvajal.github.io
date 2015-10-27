@@ -25,7 +25,7 @@ The only thing crazier than the "half-pie chart" is that the creator included a 
 
 ##How to Make This Chart Correctly
 
-*Where the U.S. gets it's electricity*
+###Where the U.S. gets it's electricity###
 
 | Energy Source | Percent of Total U.S. Electricity Produced | CO2 Equivalent Emissions per kWh |
 |---|---|---|
@@ -40,4 +40,4 @@ The only thing crazier than the "half-pie chart" is that the creator included a 
 | Nuclear | 19% | 12 |
 | Wind | 4% | 11 |
 
-See how much better a table would have been? Much easier to understand and read. If I had the actual emissions data, it would have been ever better; I've instead substituted what I could from [Wikipedia](https://en.wikipedia.org/wiki/Life-cycle_greenhouse-gas_emissions_of_energy_sources).
+See how much better a table would have been? Much easier to understand and read. If I had the actual emissions data, it would have been ever better; I've instead substituted what I could find from [Wikipedia](https://en.wikipedia.org/wiki/Life-cycle_greenhouse-gas_emissions_of_energy_sources).
