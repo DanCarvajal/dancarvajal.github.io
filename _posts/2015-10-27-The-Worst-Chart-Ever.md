@@ -11,9 +11,9 @@ Sometimes in my research I find something that strikes me. Today I found the mos
 
 There are two main reasons this is the the worst chart ever.
 
-##It's a "Half-Pie Chart"
+##It's a "Half-Pie, Pie Chart"
 
-Seriously what the hell? Who thinks up a "Half-Pie Chart"? There are [gauge charts](http://i.stack.imgur.com/OKkHe.png), but those are for presenting one thing falling in a range. (Also: guage charts are not recommend for displaying values falling in ranges.) I tried figuring out how to make a "half-pie chart", and the only way you can do it in excel is with a [tricky hack](http://www.extendoffice.com/documents/excel/2016-excel-half-pie-chart.html). Pro-tip: if you have to hack a chart together, it's probably not the best chart for the situation.
+Seriously what the hell? Who thinks up a "Half-Pie, Pie Chart"? There are [gauge charts](http://i.stack.imgur.com/OKkHe.png), but those are for presenting one thing falling in a range. (Also: guage charts are not recommend for displaying values falling in ranges.) I tried figuring out how to make a "half-pie chart", and the only way you can do it in excel is with a [tricky hack](http://www.extendoffice.com/documents/excel/2016-excel-half-pie-chart.html). Pro-tip: if you have to hack a chart together, it's probably not the best chart for the situation.
 
 *Worst of all*, the "half-pie chart" is incredibly misleading. Anyone who has ever seen a pie chart knows that all the pieces of the pie add up to one whole pie. If you use the visual of "pieces of a pie", but not the well understood concept of a whole, you're deliberately confusing readers. You force your reader to read the data labels; and once that happens, you might as well have used a table.
 
