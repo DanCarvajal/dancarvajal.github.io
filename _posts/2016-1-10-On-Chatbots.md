@@ -2,6 +2,7 @@
 layout: post
 title: Digital Assistants and the Future, or When can I have a Samantha?
 ---
+
 Silicon Valley is a [strange place](http://nymag.com/daily/intelligencer/2014/03/silicon-valley-failure-fetish.html) full of strange memes, and right now Chatbots are the latest meme. [Everyone](http://www.theverge.com/2016/1/6/10718282/internet-bots-messaging-slack-facebook-m) is [crazy](http://recode.net/2015/11/03/facebooks-virtual-assistant-m-is-super-smart-its-also-probably-a-human/) [about](http://www.wsj.com/article_email/google-plans-new-smarter-messaging-app-1450816899-lMyQjAxMTA1OTI5MjUyMDI5Wj) [chatbots](http://www.buzzfeed.com/tomchivers/mark-zuckerberg-wants-to-build-himself-a-robot-butler-in-201). I'm disappointed by this meme because of the implications it has on what I really want. The obsession with chatbots implies that the technical hurdles of creating what I actually want, a conversational AI Digital Assistant, are really big and will probably not be solved in the immediate future.
 
 ##The Current State of Digital Assistants
