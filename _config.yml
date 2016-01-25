@@ -30,5 +30,3 @@ paginate_path: /page:num/
 paginate:      5
 
 # Github plugins
-gems:
-  - jekyll-sitemap
