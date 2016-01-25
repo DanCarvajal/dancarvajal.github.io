@@ -8,7 +8,6 @@ url: "http://dancarvajal.com" # the base hostname & protocol for your site
 description: "The thoughts and writings of Dan Carcajal."
 locale: en_us
 
-
 author:
   name:           Dan Carvajal
   email:          "dan.v.carvajal@gmail.com"
@@ -29,3 +28,7 @@ markdown: kramdown
 
 paginate_path: /page:num/
 paginate:      5
+
+# Github plugins
+gems:
+  - jekyll-sitemap
