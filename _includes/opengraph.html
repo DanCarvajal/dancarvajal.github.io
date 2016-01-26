@@ -1,4 +1,4 @@
-<<meta name="og:site_name" content="{{ site.title }}">
+<meta name="og:site_name" content="{{ site.title }}">
 <meta name="og:title" content="{{ page.title }}">
 <meta name="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 <meta name="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
