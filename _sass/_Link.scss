@@ -5,8 +5,18 @@
 a {
 	color: $color-primary;
 	text-decoration: none;
+	background-image: linear-gradient(to bottom, white 75%, $color-primary 75%);
+	background-size: 2px 3px;
+	background-position: 0px 18px;
+	background-repeat: repeat-x;
+}
 
-	&:hover {
-		color: $color-secondary;
-	}
+h1 a {
+	color: $color-primary;
+	text-decoration: none;
+	background-image: none;
+}
+
+a:hover a:focus {
+	color: $color-secondary;
 }
