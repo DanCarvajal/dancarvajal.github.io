@@ -6,7 +6,7 @@ dl,
 ol,
 ul {
 	margin-top: 0;
-	padding-left: 0;
+	padding: 0 4rem;
 
 	dl
 	ul,
@@ -21,7 +21,7 @@ dl {
 }
 
 ul {
-	list-style: circle inside;
+	list-style: circle;
 }
 
 ol {

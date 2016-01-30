@@ -1,71 +1,62 @@
 // Pagerination
-
-.pager li > a, .pager li > span {
+.pager li > a,
+.pager li > span {
   display: inline-block;
   padding: 5px 14px;
   background-image: none;
   background-color: #fff;
   border: 1px solid #0033cc;
-  border-radius: 0px;
+  border-radius: 0;
   color: #0033cc;
 }
-
-.pager li > a:hover, .pager li > span:hover {
+.pager li > a:hover,
+.pager li > span:hover {
   display: inline-block;
   padding: 5px 14px;
   background-image: none;
   background-color: #0033cc;
   border: 1px solid #0033cc;
-  border-radius: 0px;
+  border-radius: 0;
   color: #fff;
   -webkit-transition: all ease 0.7s;
   -moz-transition: all ease 0.7s;
   -o-transition: all ease 0.7s;
-  -ms-transition: all ease 0.7s ;
-  transition: all ease 0.5s ;
+  -ms-transition: all ease 0.7s;
+  transition: all ease 0.5s;
 }
-
-
 // About me image
 .circular {
   margin-top: 56px;
-	width: 200px;
-	height: 200px;
-	border-radius: 150px;
-	-webkit-border-radius: 150px;
-	-moz-border-radius: 150px;
-	background: url(https://raw.githubusercontent.com/DanCarvajal/dancarvajal.github.io/master/images/DanCarvajal.JPG) no-repeat;
-	}
-
-/* Share bar */
-
-
-.share-page {
-    text-align: center;
-    color: #0033cc;
-    padding: 6px 14px;
-    margin-top: 10px;
-    font-size: 14px;
-
-    a {
-        font-size: 14px;
-        font-weight: 400;
-        color: #0033cc;
-        text-decoration: none;
-        background-image: none;
-        margin-left: 10px;
-
-        &:hover {
-          color: #0033cc;
-          background-image: linear-gradient(to bottom, white 75%, #0033cc 75%);
-          background-size: 2px 3px;
-          background-position: 0px 15px;
-          background-repeat: repeat-x;
-        }
-    }
+  width: 200px;
+  height: 200px;
+  border-radius: 150px;
+  -webkit-border-radius: 150px;
+  -moz-border-radius: 150px;
+  background: url(https://raw.githubusercontent.com/DanCarvajal/dancarvajal.github.io/master/images/DanCarvajal.JPG) no-repeat;
 }
-
-
+/* Share bar */
+.share-page {
+  text-align: center;
+  color: #0033cc;
+  padding: 6px 14px;
+  margin-top: 10px;
+  font-size: 14px;
+  a {
+    font-size: 14px;
+    font-weight: 400;
+    color: #0033cc;
+    text-decoration: none;
+    background-image: none;
+    margin-left: 10px;
+    &:hover {
+      color: #0033cc;
+      background-image: linear-gradient(to bottom, white 75%, #0033cc 75%);
+      background-size: 2px 3px;
+      background-position: 0 15px;
+      background-repeat: repeat-x;
+    }
+  }
+}
 // Subscribe Button
 .btn-default {
   display: inline-block;
@@ -73,58 +64,52 @@
   background-image: none;
   background-color: #fff;
   border: 1px solid #0033cc;
-  border-radius: 0px;
+  border-radius: 0;
   color: #0033cc;
-
-    &:hover {
-      display: inline-block;
-      padding: 5px 14px;
-      background-image: none;
-      background-color: #0033cc;
-      border: 1px solid #0033cc;
-      border-radius: 0px;
-      color: #fff;
-      -webkit-transition: all ease 0.7s;
-      -moz-transition: all ease 0.7s;
-      -o-transition: all ease 0.7s;
-      -ms-transition: all ease 0.7s ;
-      transition: all ease 0.5s ;
-    }
-
+  &:hover {
+    display: inline-block;
+    padding: 5px 14px;
+    background-image: none;
+    background-color: #0033cc;
+    border: 1px solid #0033cc;
+    border-radius: 0;
+    color: #fff;
+    -webkit-transition: all ease 0.7s;
+    -moz-transition: all ease 0.7s;
+    -o-transition: all ease 0.7s;
+    -ms-transition: all ease 0.7s;
+    transition: all ease 0.5s;
+  }
 }
-
 // Subscribe Form
 .form-control {
-    display: block;
-    max-width: 100%;
-    height: 31px;
-    padding: 5px 14px;
-    font-size: 14px;
-    line-height: 28px;
-    color: #555555;
-    background-color: #fff;
-    background-image: none;
-    border: 1px solid #0033cc;
-    border-radius: 0px;
-
-      &.form-control:focus {
-        border-color: #0033cc;
-        outline: 0;
-        -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(102, 175, 233, 0.6);
-        box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(102, 175, 233, 0.6);
-    }
+  display: block;
+  max-width: 100%;
+  height: 31px;
+  padding: 5px 14px;
+  font-size: 14px;
+  line-height: 28px;
+  color: #555555;
+  background-color: #fff;
+  background-image: none;
+  border: 1px solid #0033cc;
+  border-radius: 0;
+  &.form-control:focus {
+    border-color: #0033cc;
+    outline: 0;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(102, 175, 233, 0.6);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(102, 175, 233, 0.6);
+  }
 }
-
 // Form label
 label {
-    display: inline-block;
-    max-width: 100%;
-    height: 31px;
-    padding-right: 15px;
-    padding-left: 15px;
-    line-height: 28px;
-    margin-bottom: 5px;
-    font-weight: 400;
-    color: #0033cc;
-
+  display: inline-block;
+  max-width: 100%;
+  height: 31px;
+  padding-right: 15px;
+  padding-left: 15px;
+  line-height: 28px;
+  margin-bottom: 5px;
+  font-weight: 400;
+  color: #0033cc;
 }
