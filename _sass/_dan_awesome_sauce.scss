@@ -4,20 +4,20 @@
   display: inline-block;
   padding: 5px 14px;
   background-image: none;
-  background-color: #fff;
-  border: 1px solid #0033cc;
+  background-color: $color-initial;
+  border: 1px solid $color-primary;
   border-radius: 0;
-  color: #0033cc;
+  color: $color-primary;
 }
 .pager li > a:hover,
 .pager li > span:hover {
   display: inline-block;
   padding: 5px 14px;
   background-image: none;
-  background-color: #0033cc;
-  border: 1px solid #0033cc;
+  background-color: $color-primary;
+  border: 1px solid $color-primary;
   border-radius: 0;
-  color: #fff;
+  color: $color-initial;
   -webkit-transition: all ease 0.7s;
   -moz-transition: all ease 0.7s;
   -o-transition: all ease 0.7s;
@@ -37,20 +37,20 @@
 /* Share bar */
 .share-page {
   text-align: center;
-  color: #0033cc;
+  color: $color-primary;
   padding: 6px 14px;
   margin-top: 10px;
   font-size: 14px;
   a {
     font-size: 14px;
     font-weight: 400;
-    color: #0033cc;
+    color: $color-primary;
     text-decoration: none;
     background-image: none;
     margin-left: 10px;
     &:hover {
-      color: #0033cc;
-      background-image: linear-gradient(to bottom, white 75%, #0033cc 75%);
+      color: $color-primary;
+      background-image: linear-gradient(to bottom, white 75%, $color-primary 75%);
       background-size: 2px 3px;
       background-position: 0 15px;
       background-repeat: repeat-x;
@@ -62,18 +62,18 @@
   display: inline-block;
   padding: 5px 14px;
   background-image: none;
-  background-color: #fff;
-  border: 1px solid #0033cc;
+  background-color: $color-initial;
+  border: 1px solid $color-primary;
   border-radius: 0;
-  color: #0033cc;
+  color: $color-primary;
   &:hover {
     display: inline-block;
     padding: 5px 14px;
     background-image: none;
-    background-color: #0033cc;
-    border: 1px solid #0033cc;
+    background-color: $color-primary;
+    border: 1px solid $color-primary;
     border-radius: 0;
-    color: #fff;
+    color: $color-initial;
     -webkit-transition: all ease 0.7s;
     -moz-transition: all ease 0.7s;
     -o-transition: all ease 0.7s;
@@ -90,12 +90,12 @@
   font-size: 14px;
   line-height: 28px;
   color: #555555;
-  background-color: #fff;
+  background-color: $color-initial;
   background-image: none;
-  border: 1px solid #0033cc;
+  border: 1px solid $color-primary;
   border-radius: 0;
   &.form-control:focus {
-    border-color: #0033cc;
+    border-color: $color-primary;
     outline: 0;
     -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(102, 175, 233, 0.6);
     box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(102, 175, 233, 0.6);
@@ -111,5 +111,5 @@ label {
   line-height: 28px;
   margin-bottom: 5px;
   font-weight: 400;
-  color: #0033cc;
+  color: $color-primary;
 }
