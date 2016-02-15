@@ -11,7 +11,7 @@ Now though, I feel liked I've missed out on a large world of fiction books, part
 
 Which leads me to the next seminal work science fiction book I decided to read, a book that I genuinely believe is now my favorite book even though I am only roughly halfway done: Frank Herbert's *Dune*.
 
-##Why Dune?
+## Why Dune?
 
 First, more context: my dad is a huge *Dune* fan. He's read all the books, watched the SyFy channel miniseries of *Dune* (we watched it together), heck, he has the extended LazerDisc version of the David Lynch *Dune* adaptation. Given how steeped within *Dune* I was growing up, how did I reach 27 without having read the book? Maybe it was a rebellious teenage way of distancing myself from my dad? Maybe it really is just part of a natural inclination to nonfiction? Here's what I do know: I have never read a book with as much excitement as I have while reading *Dune*.
 

@@ -12,7 +12,7 @@ Sometimes in my research I find something that strikes me. Today I found the mos
 
 There are two main reasons this is the the worst chart ever.
 
-##It's a "Half-Pie, Pie Chart"
+## It's a "Half-Pie, Pie Chart"
 
 Seriously what the hell? Who thinks up a "Half-Pie, Pie Chart"? There are [gauge charts](http://i.stack.imgur.com/OKkHe.png), but those are for presenting one thing falling in a range. (Also: guage charts are not recommend for displaying values falling in ranges.) I tried figuring out how to make a "half-pie chart", and the only way you can do it in excel is with a [tricky hack](http://www.extendoffice.com/documents/excel/2016-excel-half-pie-chart.html). Pro-tip: if you have to hack a chart together, it's probably not the best chart for the situation.
 
@@ -20,13 +20,13 @@ Seriously what the hell? Who thinks up a "Half-Pie, Pie Chart"? There are [gauge
 
 (All the numbers don't even add up to 100%!)
 
-##Why is There an X-Axis?
+## Why is There an X-Axis?
 
 The only thing crazier than the "half-pie chart" is that the creator included a X-Axis on on the bottom. There isn't even a scale with it; they just physically ordered the slices of the "half-pie" so that they line up from largest to smallest on "greenhouse gas emissions per kwh". This gives you no relational information about how far apart the various energy generating methods are in greenhouse gas emissions. I consider this X-Axis to be intentionally misleading.
 
-##How to Make This Chart Correctly
+## How to Make This Chart Correctly
 
-###Where the U.S. gets it's electricity###
+### Where the U.S. gets it's electricity###
 
 | Energy Source | Percent of Total U.S. Electricity Produced | CO2 Equivalent Emissions per kWh |
 |---|---|---|
