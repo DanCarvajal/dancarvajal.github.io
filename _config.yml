@@ -29,4 +29,10 @@ markdown: kramdown
 paginate_path: /page:num/
 paginate:      5
 
-# Github plugins
+# Gems
+gems:
+  - jekyll-paginate
+  - jekyll-mentions
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
