@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Styling TinyLetter's Signup Form
+author: Dan Carvajal
 ---
 [TinyLetter](https://tinyletter.com/) is an email newsletter service from Mailchimp that I use for my personal email newsletter. I really enjoy its minimalist nature but it's weak on the styling features for it's signup form. Obviously I wanted to take a crack at styling it which it turns out it's a pretty easy process. Here's a quick breakdown of how to go about styling Tinyletter's signup form.
 

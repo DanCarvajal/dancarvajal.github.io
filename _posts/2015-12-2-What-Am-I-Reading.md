@@ -1,6 +1,7 @@
 ---
 layout: post
 title: What Am I Reading?
+author: Dan Carvajal
 ---
 In light of the fact that I haven't decided the scope of topics I want to discuss on my blog, I'll take the time to talk about something that I've been excited about lately. I'm excited about a book, and not just any book. While reading this book I've already come to the conclusion that it's my favorite book ever. But before I reveal it, let me talk a bit about my reading history.
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: An Open Letter to Reddit the Company, and Reddit the Community
+author: Dan Carvajal
 ---
 As a reddit user for the past four years and someone who follows tech companies religiously as a hobby, I thought it might be time to weigh in on the most recent dustups on Reddit and what I would describe as a case study on terrible user base relations. This is both an open letter to Reddit the Company, as well as Reddit the Users.
 

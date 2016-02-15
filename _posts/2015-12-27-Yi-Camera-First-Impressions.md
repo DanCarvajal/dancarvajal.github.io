@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Yi Camera First Impressions
+author: Dan Carvajal
 ---
 {% include image.html url="https://raw.githubusercontent.com/DanCarvajal/dancarvajal.github.io/master/images/IMG_20151227_115213.jpg" description="Xiaomi toys" %}
 

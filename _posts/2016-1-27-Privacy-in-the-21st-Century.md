@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Privacy in the 21st Century
+author: Dan Carvajal
 ---
 The Atlantic today had a fairly [excited article](http://www.theatlantic.com/politics/archive/2016/01/vigilant-solutions-surveillance/427047/) about a new company named Vigilant Solutions and the privacy question it proposes, "What information can a company collect on you and sell to the Police?" Vigilant is a law enforcement contractor that maintains a private database of car license plate photos and their location data, collected from license plate readers it gives to police departments. Police get free plate readers, Vigilant gets the data. Ultimately the article was furious at this "unprecedented violation of privacy" for profit. I'm just not sure it's a particularly questionable program, and it certainly has precedent.
 
