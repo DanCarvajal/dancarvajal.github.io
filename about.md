@@ -10,11 +10,11 @@ Hi there! I'm Dan Carvajal, a designer-code-tinkerer type living and working in 
 
 I have a BS in Economics from George Mason University, which is kind of cool.
 
-##Interests
+## Interests
 I have many varied interest, here is a small sample:
 
 {% include interests.html %}
 
-##Contact Me
+## Contact Me
 
 {% include contact.html %}
