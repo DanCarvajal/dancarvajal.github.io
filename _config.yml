@@ -24,7 +24,7 @@ fb_admins:          648807029
 fb_appid:           508362279313777
 
 # Build settings
-markdown: kramdown
+markdown: kramadown
 
 paginate_path: /page:num/
 paginate:      5
