@@ -1,6 +1,7 @@
 ---
 layout: post
 title: My New Fujifilm x100s
+author: Dan Carvajal
 ---
 {% include image.html url="https://raw.githubusercontent.com/DanCarvajal/dancarvajal.github.io/master/images/IMG_20150717_190821.jpg" description="fujifilm x100s next to Alpa 9d" %}
 

@@ -15,6 +15,6 @@ I have many varied interest, here is a small sample:
 
 {% include interests.html %}
 
-##Contact me
+##Contact Me
 
 {% include contact.html %}

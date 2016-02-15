@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Worst Chart Ever
+author: Dan Carvajal
 ---
 I spend a great deal of my day thinking about how to accurately and honestly present data, because it's my job. To do my job well I research best practices, network with other people in the field, and look at a lot of charts.
 

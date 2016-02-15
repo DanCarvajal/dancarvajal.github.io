@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Robie House Project
+author: Dan Carvajal
 ---
  {% include image.html url="https://raw.githubusercontent.com/DanCarvajal/open_protfolio/master/Robie%20House/Robie_house_lg.png" description="Washington_DC_buildings" %}
 

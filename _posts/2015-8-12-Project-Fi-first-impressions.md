@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Project Fi First Impressions
+author: Dan Carvajal
 ---
 It's no secret that I am a big Google fan (but not a fanboy), so when they announced their [Project Fi](https://fi.google.com) wireless service of course I wanted in. I quickly put in an invite application and just last week I finally got my invite. As of yesterday I am officially on Google's Project Fi. Here's some quick thoughts on my day of using the service:
 

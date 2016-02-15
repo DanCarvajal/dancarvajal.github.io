@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Star Wars The Force Awakens, Thoughts (Spoilers Galore)
+author: Dan Carvajal
 ---
 
 Here are my thoughts about the *Star Wars: The Force Awakens* yesterday. There are major spoilers.

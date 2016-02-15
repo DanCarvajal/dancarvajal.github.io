@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Plotting My Tweets
+author: Dan Carvajal
 ---
 Recently I became interested in knowing more about my social media usage. I've been using some form of social media for over a decade now and I wanted see just how exactly I use it. My first thoughts were to Twitter because it's the platform I'm most active on and represented the largest source of data.
 
