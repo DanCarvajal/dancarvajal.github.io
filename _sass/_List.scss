@@ -33,3 +33,13 @@ dd,
 li {
 	margin-bottom: 1.0rem;
 }
+
+.list-inline {
+    padding-left: 0;
+    list-style: none;
+    margin-left: -5px;
+		display: inline;
+}
+.text-center {
+    text-align: center;
+}
