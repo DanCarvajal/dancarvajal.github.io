@@ -26,7 +26,7 @@ The only thing crazier than the "half-pie chart" is that the creator included a 
 
 ## How to Make This Chart Correctly
 
-### Where the U.S. gets it's electricity###
+## Where the U.S. gets it's electricity
 
 | Energy Source | Percent of Total U.S. Electricity Produced | CO2 Equivalent Emissions per kWh |
 |---|---|---|
