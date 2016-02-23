@@ -29,6 +29,9 @@ markdown: kramdown
 paginate_path: /page:num/
 paginate:      5
 
+sass:
+  style: compressed
+
 # Gems
 gems:
   - jekyll-paginate
