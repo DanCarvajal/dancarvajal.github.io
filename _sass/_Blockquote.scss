@@ -8,6 +8,10 @@ blockquote {
 	margin-right: 0;
 	padding: 1rem 1.5rem;
 
+	p {
+		font-style: italic;
+	}
+
 	& *:last-child {
 		margin: 0;
 	}
