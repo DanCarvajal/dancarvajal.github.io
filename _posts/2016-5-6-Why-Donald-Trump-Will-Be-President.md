@@ -29,9 +29,15 @@ News Media stands to gain so much from drama that not only did it bend to the wi
 
 ## Other Thoughts
 Here are some other thoughts on this election cycle.
+
 * Donald Trump will beat the Racist accusations with ease. He's not a man who is afraid to kiss a black baby. And since he has done anything politically to harm Black America, he'll charm and disarm a lot of people.
+
 * Donald Trump's xenophobic message is not a bug, it's a feature, and it'll be damn popular too.
+
 * Republicans will be appeased to a degree by Trump (he makes deals) and they will ultimately support him.
+
 * Hillary better get a damn good running mate. She'll need a surrogate to help her effectively present her message (Debbie Wasserman Schultz is not a good one).
+
 * Don't trust polls. Right now there are a lot of people who would vote for Trump but not publicly admit it. Let's get closer to the election before we start calling up Nate Silver.
+
 * I don't want Donald Trump to be President.
