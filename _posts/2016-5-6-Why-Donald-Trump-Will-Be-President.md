@@ -5,7 +5,7 @@ author: Dan Carvajal
 ---
 On April 30th, 2015 I bet $1 at 200 to 1 odds that Donald Trump would win the Republican Nomination for President. Back then Donald Trump hadn’t even declared yet, but that silly small bet as a joke turns out to have been probably the best bet I’ve ever made (even while also being horrified by the outcome). Now nearly a year later I am willing to make a new bet, I think Donald Trump will be the next President of the United States. Here’s why I think so.
 
-## His Track History is Staggering
+## His Wins are Staggering
 Donald Trump stormed his way to the GOP nomination with an ease that should make his doubters very worried. He beat some of the best career politicians and entire party had to offer. Governors and Senators alike with hundreds of millions of dollars between them in war chests could not stop him. These are people who have achieved some of the highest positions in the American political landscape, and he went through them with a ruthlessness unseen. He didn't just beat them, [he broke them](https://youtu.be/wzh7z9aHil8) ([example two](https://youtu.be/DdCYMvaUcrA)). He beat an entire party, and there is no reason to question if he can do it again. I listened to Debbie Wasserman Schultz today in an interview and I’m  sure the Democrats are substantially underestimating Donald Trump.
 
 ## Populism is Popular + Trump Can Be Anyone to Anyone = Man of the People
