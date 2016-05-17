@@ -25,6 +25,7 @@ Guacamole, I added some of the salsa I made to an skinned avocado and mushed it 
 Having boosted my ego I wanted to see if I could redeem myself in the eyes of Cassie. I decided to keep it simple with something I knew we already liked, carnitas. I turned to Rick's youtube channel and made the recipe form [this video](https://youtu.be/gBWyvB_raSE). Yeah it's actually just as easy as the video makes it out to be. The hardest part was finding a store that sold lard.
 
 Here's Cassie's thoughts on the carnitas dinner:
+
 > The carnitas were delicious, but what really made the meal amazing was the combination of flavors: the savory, crispy pork combined with the creaminess of the guacamole, the tang of the salsa, the wonderful corn flavor of the tortillas, and finally the slightly salty queso fresco. The result was what I call "head-shaking good", which is what happens when a dish turns out so well that you can't quite believe it.
 
 {% include image.html url="https://raw.githubusercontent.com/DanCarvajal/dancarvajal.github.io/master/images/IMG_20160515_172651%20(1).jpg" description="carnitas dinner" %}
