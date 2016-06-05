@@ -13,6 +13,7 @@ In learning something new I often have success with imitating a person of inspir
 Here's what I made.
 
 ## Recipe #1
+
 After the disaster dish, I decided to start simple, make a simple salsa recipe. It was a simple smokey *Chipotle Tomatillo salsa*. Basically roast some tomatillos and garlic, then blend with two canned chipotle chiles and salt. Perhaps the easiest recipe possible but I needed an ego boost and boy did this deliver. I've never made better salsa.
 
 ## Recipe #2
