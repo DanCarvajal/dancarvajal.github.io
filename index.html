@@ -7,7 +7,7 @@ title: Dan Carvajal
 <div class="post-list">
   <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
   <div class="post-meta">
-    <time itemprop="datePublished" datetime="{{ post.date | date_to_xmlschema }}" data-toggle="tooltip" data-placement="bottom" title="{{ post.date | date: '%a, %b %-d, %Y' }} at {{ post.date | date: '%-I:%M%P %Z' }}">{{ post.date | date: '%B %-d, %Y' }}</time>
+  <!-- <time itemprop="datePublished" datetime="{{ post.date | date_to_xmlschema }}" data-toggle="tooltip" data-placement="bottom" title="{{ post.date | date: '%a, %b %-d, %Y' }} at {{ post.date | date: '%-I:%M%P %Z' }}">{{ post.date | date: '%B %-d, %Y' }}</time> -->
   </div>
   <div class="content">
     {{ post.excerpt }}
