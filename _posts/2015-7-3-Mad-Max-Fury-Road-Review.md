@@ -4,17 +4,17 @@ title: Mad Max Fury Road Review
 ---
 If you've been around me for the past two months you've probably heard me talk about *Mad Max Fury Road*. I'm no attempt at hiding this Fury Road is not only now one of my favorite movies but a film that I consider a masterpiece. Since I love a lot of movies that people don't like, and dislike a lot of movies that people do, I wanted to give the film a larger breakdown of why I love this film. There are spoilers to *Fury Road* and other movies used in the discussion.
 
-###The State of Action Films: Franchises, Super Heroes, and Special Effects
+### The State of Action Films: Franchises, Super Heroes, and Special Effects
 
 I would like to set the stage for my review by discussing the modern action film genre. For almost the past ten years by Super Heroes, the "Big Budget Action" movie franchises, and the increasing use of special effects. These trends are a problem for the genre and heres why:
 
-####The franchise effect or "The decline of Die Hard"
+#### The franchise effect or "The decline of Die Hard"
 
 Action movies by their very nature rely on tension to tell the story and drive audience engagement. The viewer is present with the possibility that a character is in some sort of mortal peril, and react to this possibility. You have to have some sort of stakes involved. In the world of the franchise characters are no longer in danger because you know the existence of sequels. Case in point, when *Die Hard* first came out and really revitalized the action movie, the audience was presented with multiple instances of John McClain being vulnerable and this vulnerability was central to the advancement to the story. He was just an everyman trying to survive. Now in the latest film in the *Die Hard franchise*, *A Good Day to Die Hard* we have seen John McClain survive four movies increasingly bizarre action situation. Because we've seen him survive time and time again the tension required for a engaging action movie is not there. At no point are you concerned about Indiana Jones surviving a nuclear blast, Superman destroying a city, James Bond in a trap, or any number of alien invasions.
 
 Some of the more well regarded action movies of the past few years have bucked the trend of franchise. Notables example are *John Wick*, a quality action movie, and *Kingsmen* a unique take on a spy movies. However, budgets for films are bigger now and Hollywood is risk averse so we will get many more sequels and reboots.
 
-####George R. R. Martin doesn't write super hero movies.
+#### George R. R. Martin doesn't write super hero movies.
 
 Related to the previous point; Super hero films lose drama and engagement because intimate aspects of the characters themselves, that they are better than average people, make the uniquely suited for survival. At no point are you worried about Batman losing, because Batman is Batman. Superman doesn't die because he is Superman. Because of the lack of real stakes for the protagonists in the Super Hero movies, films have to rely on side characters to provide the stakes, which is hard. In *The Dark Knight* we're told to worry about Batman's love interest (you know, Whats Her Name) and in fact she is killed off in the film. Her death would normally be a big deal except the film have very limited time to develop Whats Her Name's significance to Batman/Bruce Wayne.
 
@@ -22,13 +22,13 @@ Imagine you're a filmmaker making a super hero movie. You know you have a tensio
 
 In film one of the hardest things to do is to significantly develop character relationships, it requires skill and time. Television has an advantage over films in that stories can be given significantly more time for characters, helping develop the audience engagement. We see far more drama driven be character deaths in series like HBO's *Game of Thrones* or Netflix *Daredevil*. Only the *Avengers* films have be interested in killing side characters on screen. In the skill department only a few super hero films have managed to pull off engaging characters, the first *Iron Man* comes to mind as a great example as well as *Guardians of the Galaxy*. Prior to *Guardians* could you have imagined caring about a talking raccoon and tree person who can only say "I am Groot".
 
-####Special effects are now less special.
+#### Special effects are now less special.
 
 This is a pretty simple critique, effects are so common now that they have diminishing returns as tools for story telling. In less than 20 years we went from "We have the special effects to destroy cities now!" to "Well in this scene I guess we'll destroy a city." The movie magic of special effects has now been diminished which means films can either double down, regurgitating the same stuff over and over again, or be inventive and new. Alas as we all know inventive and new is hard and risky.
 
 Now that we have discussed the sad state of action films I will make the case that not only does *Fury Road* have inventive fixes for all the problems of modern action films, but that it may be great enough to be enshrined among the greatest action films of all time.
 
-###The Film
+### The Film
 
 This movie is a masterpiece of editing, pacing, tone, action, character, and world construction. It's visual ecstasy on film, and a testimony to what modern films can be, oddly coming from such an old school film. George Miller is a 70 year old filmmaker, yet has created a film so inventive you couldn't possibly imagine it not coming from some young renegade filmmaker looking to reinvent the genre.
 
@@ -41,7 +41,7 @@ Above all it's a film that trust the audience. It let's you put together the pie
 I don't know how a film this good got made in modern global Hollywood. Damn am I glad it did. It came roaring in from the desert with hope.
 
 
-###Bonus Round: How to Make a Title Card.
+### Bonus Round: How to Make a Title Card.
 
  {% include image.html url="http://i.imgur.com/NW8NYQG.gif" description="Fury Road Title Card" %}
 
