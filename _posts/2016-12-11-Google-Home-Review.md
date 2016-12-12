@@ -34,6 +34,9 @@ Overall, I am excited to get started, but it's not for everyone. First if you ca
 ## Some Complaints
 
 Here's a list of things that annoy me:
+
 * It can't set a reminder. I can set a voice reminder on my Google Pixel but I can't on Google Home? That's a feature that shouldn't be missing from a product launch. I can add to my shopping list after all.
+
 * No multi account support. Cassie can't check her calendar because it only used my account right now. In the future I'd like to see it recognize whose talking to it, and contextualize responses.
+
 * No Netflix support. I've tried to pause Netflix by voice without remembering that it wouldn't work. However, at the time of this review it looks like Google is in the process of turning on Netflix support.
