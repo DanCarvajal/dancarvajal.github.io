@@ -13,7 +13,7 @@ First I love the design of it. It's simple understated design really helps it bl
 
 The conversation voice interactions are very good. As a user experience, it's easy to discover how it works and how to use it. All the commands it has just work. Given how much we use it to start timers in the kitchen, you could confuse it for a voice activated timer.  It's great to walk in, say "Hey Google, play some Christmas Jazz on the the stereo" and have it work perfectly. Oddly Cassie and I use it to play music on our stereo far more than we used to. It wasn't obvious that it would increase our music listening but it did. I can't wait until I can have a unit like this built into my car.
 
-### Fun Built In
+#### Fun Built In
 
 Google has made a creepy-ish device as fun as possible. There are tons of Easter Eggs and games built in. It's these little touches that help you forget it's just microphones listening to you.
 
