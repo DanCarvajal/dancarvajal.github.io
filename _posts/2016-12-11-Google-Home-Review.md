@@ -13,7 +13,7 @@ First I love the design of it. It's simple understated design really helps it bl
 
 The conversation voice interactions are very good. As a user experience, it's easy to discover how it works and how to use it. All the commands it has just work. Given how much we use it to start timers in the kitchen, you could confuse it for a voice activated timer.  It's great to walk in, say "Hey Google, play some Christmas Jazz on the the stereo" and have it work perfectly. Oddly Cassie and I use it to play music on our stereo far more than we used to. It wasn't obvious that it would increase our music listening but it did. I can't wait until I can have a unit like this built into my car.
 
-#### Fun Built In
+## Fun Built In
 
 Google has made a creepy-ish device as fun as possible. There are tons of Easter Eggs and games built in. It's these little touches that help you forget it's just microphones listening to you.
 
@@ -34,6 +34,6 @@ Overall, I am excited to get started, but it's not for everyone. First if you ca
 ## Some Complaints
 
 Here's a list of things that annoy me:
-- It can't set a reminder. I can set a voice reminder on my Google Pixel but I can't on Google Home? That's a feature that shouldn't be missing from a product launch. I can add to my shopping list after all.
-- No multi account support. Cassie can't check her calendar because it only used my account right now. In the future I'd like to see it recognize whose talking to it, and contextualize responses.
-- No Netflix support. I've tried to pause Netflix by voice without remembering that it wouldn't work. However, at the time of this review it looks like Google is in the process of turning on Netflix support.
+* It can't set a reminder. I can set a voice reminder on my Google Pixel but I can't on Google Home? That's a feature that shouldn't be missing from a product launch. I can add to my shopping list after all.
+* No multi account support. Cassie can't check her calendar because it only used my account right now. In the future I'd like to see it recognize whose talking to it, and contextualize responses.
+* No Netflix support. I've tried to pause Netflix by voice without remembering that it wouldn't work. However, at the time of this review it looks like Google is in the process of turning on Netflix support.
