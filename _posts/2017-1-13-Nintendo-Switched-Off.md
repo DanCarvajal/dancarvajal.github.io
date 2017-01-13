@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Armchair Product Designer: the Nintendo Switch
+title: Armchair Product Designer, the Nintendo Switch
 author: Dan Carvajal
 ---
 > Welcome to a new blog post series where I express my confusion and problems with products. I've talked about products before but more as reviews. This series is for me to comment on things I never intend to buy. My first target the Nintendo Switch.
