@@ -11,7 +11,7 @@ collections:
 site: Dan Carvajal
 name: Dan Carvajal
 email: dan.v.carvajal@gmail.com
-baseurl: ''
+baseurl: 
 url: http://dancarvajal.com
 description: The thoughts and writings of Dan Carvajal.
 locale: en_us
