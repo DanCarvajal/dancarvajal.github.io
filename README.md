@@ -4,7 +4,6 @@
 The Jekyll build for [dancarvajal.com](http://dancarvajal.com).
 
 * Site: [dancarvajal.com](http://dancarvajal.com)
-* Twitter: [@dan_v_c](http://twitter.com/dan_v_c)
 
 Too often people who put code solutions on the internet go unrecognized. We the consumers Google similar problems, find the helpful guides, and then move on with our lives. **Not today.** Today we recognize da real MVPs who put out all the helpful instructions that helped me build this website.
 
