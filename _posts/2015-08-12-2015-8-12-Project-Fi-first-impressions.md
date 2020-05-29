@@ -1,8 +1,10 @@
 ---
-layout: post
 title: Project Fi First Impressions
+date: 2015-08-12 00:00:00 Z
+layout: post
 author: Dan Carvajal
 ---
+
 It's no secret that I am a big Google fan (but not a fanboy), so when they announced their [Project Fi](https://fi.google.com) wireless service of course I wanted in. I quickly put in an invite application and just last week I finally got my invite. As of yesterday I am officially on Google's Project Fi. Here's some quick thoughts on my day of using the service:
 
 * In theory ProjectFi is almost exactly what I've always wanted in a wireless carrier. It's cheap, simple to set up, easy to pay your bill, and gives great coverage. AndroidPolice did a great breakdown of it's [potential as a service](http://www.androidpolice.com/2015/04/22/editorial-googles-project-fi-may-not-be-the-carrier-you-want-but-i-sure-as-hell-do/). I don't think it even required a credit check, which I consider a completely unnecessary aspect of cell phone service, it's not the 1990s after all.

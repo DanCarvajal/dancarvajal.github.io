@@ -1,6 +1,7 @@
 ---
-layout: post
 title: Star Wars The Force Awakens, Thoughts (Spoilers Galore)
+date: 2016-01-01 00:00:00 Z
+layout: post
 author: Dan Carvajal
 ---
 

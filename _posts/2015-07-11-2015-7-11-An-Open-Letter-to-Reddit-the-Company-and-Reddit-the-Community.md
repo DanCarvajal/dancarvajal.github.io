@@ -1,8 +1,10 @@
 ---
-layout: post
 title: An Open Letter to Reddit the Company, and Reddit the Community
+date: 2015-07-11 00:00:00 Z
+layout: post
 author: Dan Carvajal
 ---
+
 As a reddit user for the past four years and someone who follows tech companies religiously as a hobby, I thought it might be time to weigh in on the most recent dustups on Reddit and what I would describe as a case study on terrible user base relations. This is both an open letter to Reddit the Company, as well as Reddit the Users.
 
 Reddit users are too young to remember when the internet message board world was slow, fragmented, and made it hard to discover new content. When I was first going online in 1999 in Oklahoma I was looking for two things, Neopets and Message Boards. Heck, Google was barely a thing in 1999 and Internet Explorer 6 wouldn't even come out for another two years. For the next ten years community message boards on the internet were essentially stagnant. Niche message boards were often set up by individuals and almost impossible to monetize to pay for expensive hosting. It was not uncommon to have images be hidden from guest visitors to save on bandwidth, which saw the rise of photo hosting sites like Photobucket.

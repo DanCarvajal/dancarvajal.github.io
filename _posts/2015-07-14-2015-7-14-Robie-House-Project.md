@@ -1,8 +1,10 @@
 ---
-layout: post
 title: Robie House Project
+date: 2015-07-14 00:00:00 Z
+layout: post
 author: Dan Carvajal
 ---
+
  {% include image.html url="https://raw.githubusercontent.com/DanCarvajal/open_protfolio/master/Robie%20House/Robie_house_lg.png" description="Washington_DC_buildings" %}
 
  Recently I’ve taken up a new hobby of creating architecture “models” in Adobe Illustrator and I took on the challenge of creating Frank Lloyd Wright's Robie House.

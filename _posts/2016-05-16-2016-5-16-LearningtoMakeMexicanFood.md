@@ -1,8 +1,10 @@
 ---
-layout: post
 title: Learning to Make Mexican Food
+date: 2016-05-16 00:00:00 Z
+layout: post
 author: Dan Carvajal
 ---
+
 One week ago today, I made the worst dinner I have ever cooked. The horror stories of this dinner are so bad I wont share them all here. (I poorly washed the arugula and Cassie had to spit tiny rocks out of her mouth.) While I disastrously screwed the evening up, but my heart was in the right place, I'm trying to learn to make really good Mexican food.
 
 Lately Mexican food has been on my mind more and more, so I just suddenly decided I wanted to be really good at making it. Of course I've made Mexican food before, food that was pretty good actually, but I want to make REALLY GOOD Mexican food. My last name is Spanish, I have ancestors from Mexico, I should be able to make really good Mexican food.

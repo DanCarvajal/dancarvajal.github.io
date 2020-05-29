@@ -1,8 +1,10 @@
 ---
-layout: post
 title: Starship Troopers (not the Paul Verhoeven film)
+date: 2016-02-17 00:00:00 Z
+layout: post
 author: Dan Carvajal
 ---
+
 I've mentioned that I've been reading a lot of [SciFi lately](http://dancarvajal.com/2015/12/02/What-Am-I-Reading.html). The latest book I've completed in the in this foray is Robert Heinlein's *Starship Troopers*. Now I will say this is kind of the second or third time I've read this book. Back when the *Starship Troopers* movie came out I remember trying to read the book a couple of times but I was eleven or so I won't claim to have actually comprehended the book. Flash forward 17 years and with both *The Moon is a Harsh Mistress* and *Stranger in a Strange Land* finished I was ready to re-tackle one of Robert Heinlein's seminal works.
 
 If I were to give you a short version of my thoughts on *Starship Troopers* it would be this: this is clearly Heinlein's best work. To me Heinlein's work rarely makes it past the pulp stories of their origins, whereas Troopers is a clear actualized story exploring themes and metaphors beyond the more general themes of SciFi from it's time (SPACE MYSTERY WOOOO).

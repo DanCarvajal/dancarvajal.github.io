@@ -1,8 +1,10 @@
 ---
-layout: post
 title: The Worst Chart Ever
+date: 2015-10-27 00:00:00 Z
+layout: post
 author: Dan Carvajal
 ---
+
 I spend a great deal of my day thinking about how to accurately and honestly present data, because it's my job. To do my job well I research best practices, network with other people in the field, and look at a lot of charts.
 
 Sometimes in my research I find something that strikes me. Today I found the most striking chart I have ever seen; I call it the *worst chart ever*.

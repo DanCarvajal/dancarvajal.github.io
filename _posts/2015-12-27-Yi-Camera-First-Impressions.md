@@ -1,8 +1,10 @@
 ---
-layout: post
 title: Yi Camera First Impressions
+date: 2015-12-27 00:00:00 Z
+layout: post
 author: Dan Carvajal
 ---
+
 {% include image.html url="https://raw.githubusercontent.com/DanCarvajal/dancarvajal.github.io/master/images/IMG_20151227_115213.jpg" description="Xiaomi toys" %}
 
 While I have some much needed downtime I thought I'd do some first impressions of a recent Christmas present I received, a [Xiaomi Yi action camera](http://www.amazon.com/Xiaomi-XYACWW-Action-Camera-Wi-Fi/dp/B0148TNDXY).

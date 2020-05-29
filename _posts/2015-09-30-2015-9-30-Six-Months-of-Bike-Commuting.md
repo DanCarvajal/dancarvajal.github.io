@@ -1,8 +1,10 @@
 ---
-layout: post
 title: Some Thoughts on Six Months of Bike Commuting
+date: 2015-09-30 00:00:00 Z
+layout: post
 author: Dan Carvajal
 ---
+
 About six months ago I started bike commuting to work. My decision to bike to work was driven by wanting a exercise routine that better fit my schedule, and to take Metro less (Metro being Washington DC's notoriously incompetent transit service). Now that I'm six months in I thought I'd share some of my thoughts and reactions.
 
 ## Bike Commuting is Great Exercise

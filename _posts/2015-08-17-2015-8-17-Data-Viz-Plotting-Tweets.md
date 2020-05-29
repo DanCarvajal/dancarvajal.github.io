@@ -1,8 +1,10 @@
 ---
-layout: post
 title: Plotting My Tweets
+date: 2015-08-17 00:00:00 Z
+layout: post
 author: Dan Carvajal
 ---
+
 Recently I became interested in knowing more about my social media usage. I've been using some form of social media for over a decade now and I wanted see just how exactly I use it. My first thoughts were to Twitter because it's the platform I'm most active on and represented the largest source of data.
 
 The first question I wanted to answer is *"How often do I tweet?"* Turns out this question is one of the easier ones to answer. Here's how I did it.

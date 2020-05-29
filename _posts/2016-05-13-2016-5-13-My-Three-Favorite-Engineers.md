@@ -1,8 +1,10 @@
 ---
-layout: post
 title: My Three Favorite Engineers
+date: 2016-05-13 00:00:00 Z
+layout: post
 author: Dan Carvajal
 ---
+
 ## Buckminster Fuller
 The ultimate philosopher/inventor engineer. He designed [cars](https://en.wikipedia.org/wiki/Dymaxion_car), [buildings](https://en.wikipedia.org/wiki/Montreal_Biosph%C3%A8re), and worked to create a philosophical theory of humanist technology [advancing mankind](http://www.newyorker.com/magazine/2008/06/09/dymaxion-man) while conserving the planet. Most known for his promotion of the geodesic dome, when dome homes became popular he became a [counter culture icon](http://www.curbed.com/2016/5/11/11645002/buckminster-fuller-back-to-the-land-dome-homes). Fuller inspires me to be as broad reaching in thought and openness as I can, and the convergence of philosophy and technical solutions.
 

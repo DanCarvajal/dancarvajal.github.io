@@ -1,7 +1,9 @@
 ---
-layout: post
 title: Mad Max Fury Road Review
+date: 2015-07-03 00:00:00 Z
+layout: post
 ---
+
 If you've been around me for the past two months you've probably heard me talk about *Mad Max Fury Road*. I'm no attempt at hiding this Fury Road is not only now one of my favorite movies but a film that I consider a masterpiece. Since I love a lot of movies that people don't like, and dislike a lot of movies that people do, I wanted to give the film a larger breakdown of why I love this film. There are spoilers to *Fury Road* and other movies used in the discussion.
 
 ### The State of Action Films: Franchises, Super Heroes, and Special Effects

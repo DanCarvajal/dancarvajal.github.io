@@ -1,8 +1,10 @@
 ---
-layout: post
 title: Why I think Donald Trump will be the Next President of the United States
+date: 2016-05-06 00:00:00 Z
+layout: post
 author: Dan Carvajal
 ---
+
 On April 30th, 2015 I bet $1 at 200 to 1 odds that Donald Trump would win the Republican Nomination for President. Back then Donald Trump hadn’t even declared yet, but that silly small bet as a joke turns out to have been probably the best bet I’ve ever made (even while also being horrified by the outcome). Now nearly a year later I am willing to make a new bet, I think Donald Trump will be the next President of the United States. Here’s why I think so.
 
 ## Staggering Wins

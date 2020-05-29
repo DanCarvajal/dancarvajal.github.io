@@ -1,8 +1,10 @@
 ---
-layout: post
 title: My Review of Google Home
+date: 2016-12-11 00:00:00 Z
+layout: post
 author: Dan Carvajal
 ---
+
 I've chatted about what [I want in a digital assistant](http://dancarvajal.com/2016/01/10/On-Chatbots.html) before. Now Google has come out with their voice digital assistant  speaker, [Google Home](https://madeby.google.com/home/). As a Google fan I decided to give it a try and picked one up on Black Friday for $78 (some $50s off retail). Here's my thoughts from a few weeks of using a Google Home.
 
 ## Aesthetics

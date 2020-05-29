@@ -1,8 +1,10 @@
 ---
-layout: post
 title: Breaking My Site and Fixing It Again
+date: 2016-11-23 00:00:00 Z
+layout: post
 author: Dan Carvajal
 ---
+
 Wow this is embarrassing but it’s been six months since my last blog post. A lot has happened since then, but before I play catch up on let me explain why I haven’t been blogging.
 
 My site was broken the entire time. This website is hosted on [Github](https://github.com/) using the blog tool [Jekyll](https://jekyllrb.com/). Github began using a new version of Jekyll which broke my site since it was built for an old version. Every few weeks I would spend an hour or two trying to fix the site but nothing seemed to work. After a while I just took a break from my site.

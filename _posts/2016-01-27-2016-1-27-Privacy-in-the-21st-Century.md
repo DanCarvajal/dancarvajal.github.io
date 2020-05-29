@@ -1,8 +1,10 @@
 ---
-layout: post
 title: Privacy in the 21st Century
+date: 2016-01-27 00:00:00 Z
+layout: post
 author: Dan Carvajal
 ---
+
 The Atlantic today had a fairly [excited article](http://www.theatlantic.com/politics/archive/2016/01/vigilant-solutions-surveillance/427047/) about a new company named Vigilant Solutions and the privacy question it proposes, "What information can a company collect on you and sell to the Police?" Vigilant is a law enforcement contractor that maintains a private database of car license plate photos and their location data, collected from license plate readers it gives to police departments. Police get free plate readers, Vigilant gets the data. Ultimately the article was furious at this "unprecedented violation of privacy" for profit. I'm just not sure it's a particularly questionable program, and it certainly has precedent.
 
 Legally it passes the sniff test. I can't see how a program like this would be struck down in a court. It's basically license plate Street View, visual information collected on public roads, and your car is in the public space so it seems like a stretch to expect license plate privacy. The main question of this is it okay for company to possess data collected on the public location of a car based on license plate pings. We've seen plenty of cases with courts siding with photographers in areas where privacy in the public space is questioned, most notably over the [photographing of conduct of police officers](http://www.theatlantic.com/technology/archive/2015/04/what-to-say-when-the-police-tell-you-to-stop-filming-them/391610/). Is this a case of eavesdropping or stalking? Probably not, it's indiscriminate automated record collection. If the police wanted to follow you, they could already do that.

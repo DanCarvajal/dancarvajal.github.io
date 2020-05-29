@@ -1,8 +1,10 @@
 ---
-layout: post
 title: Armchair Product Designer, the Nintendo Switch
+date: 2017-01-13 00:00:00 Z
+layout: post
 author: Dan Carvajal
 ---
+
 > Welcome to a new blog post series where I express my confusion and problems with products. I've talked about products before but more as reviews. This series is for me to comment on things I never intend to buy. My first target the Nintendo Switch.
 
 Let's do a thought experiment. In your mind, take away the name Nintendo from the Switch. Imagine it as a new game console meant to reinvent game consoles. It's portable, but has poor battery life. It's brand new, but has terrible screen resolution. It's expensive at $300, but only has 32gbs of storage. It's goofy looking and lacks the polish of the new Xbox One S but actually costs more. You move on because it's the new Ouya; the famous failed kickstarter game console.

@@ -1,8 +1,10 @@
 ---
-layout: post
 title: Windows 10 First Impressions
+date: 2015-07-31 00:00:00 Z
+layout: post
 author: Dan Carvajal
 ---
+
 I'm generally deeply skeptical of when anyone claims a new development in the world of desktop operating systems. We've all seen too many desktop OS championed as "The future of desktop computing!" that ultimately deliver only minor improvements (looking at you OSX, for the last ten years). When it comes to OSes, you can say that I'm more of a Google Guy than a Microsoft Guy. I'm more concerned about how I access the web, not what OS I used to do it. I own an Android Phone, a Apple Laptop, and a Windows PC. But when I got the notification that my PC was ready to upgrade to Windows 10 I figured I'd play around with it. Here are my first impressions.
 
 ### "It's Different!" but Windows Never Changes

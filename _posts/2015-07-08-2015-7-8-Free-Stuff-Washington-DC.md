@@ -1,8 +1,10 @@
 ---
-layout: post
 title: Free Stuff- Washington, DC Buildings Vector
+date: 2015-07-08 00:00:00 Z
+layout: post
 author: Dan Carvajal
 ---
+
  {% include image.html url="https://raw.githubusercontent.com/DanCarvajal/free_stuff/master/Washington_DC_buildings_preview.png" description="Washington_DC_buildings" %}
 
 

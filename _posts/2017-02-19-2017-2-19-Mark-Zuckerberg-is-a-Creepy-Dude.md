@@ -1,8 +1,10 @@
 ---
-layout: post
 title: Mark Zuckerberg is a Creepy Dude
+date: 2017-02-19 00:00:00 Z
+layout: post
 author: Dan Carvajal
 ---
+
 Recently, the Zuck shared with us his vision of the world. It was a [5,700 word essay](https://www.facebook.com/notes/mark-zuckerberg/building-global-community/10103508221158471/?pnref=story) in which he says some very creepy things. However, we should take this post at face value given the buzz of a Zuckerberg 2020 campaign and that we currently have a reality TV show star as President. So who is Mark Zuckerberg and why is he so creepy? His manifesto reveals that he is a sheltered immature creepy dude.
 
 Let’s look at some creepy statements in his manifesto:

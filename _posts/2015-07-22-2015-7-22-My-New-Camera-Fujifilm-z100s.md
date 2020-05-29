@@ -1,8 +1,10 @@
 ---
-layout: post
 title: My New Fujifilm x100s
+date: 2015-07-22 00:00:00 Z
+layout: post
 author: Dan Carvajal
 ---
+
 {% include image.html url="https://raw.githubusercontent.com/DanCarvajal/dancarvajal.github.io/master/images/IMG_20150717_190821.jpg" description="fujifilm x100s next to Alpa 9d" %}
 
 Recently I managed to purchase a camera I have had my eye one for almost two years, a Fujifilm x100s. It takes a lot for me to want something for that long and not buy it, and in this case those reasons are:

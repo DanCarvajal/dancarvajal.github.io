@@ -1,8 +1,10 @@
 ---
-layout: post
 title: The Great Branding Recession
+date: 2016-03-01 00:00:00 Z
+layout: post
 author: Dan Carvajal
 ---
+
 Today I'm going to propose a new theory about the current state of design. Design has gone through many periods with various schools and trends that we can often lump into broader historical design eras. I certainly don't think I'm the first to propose this but today I believe we are seeing the start of the Great Branding Recession.
 
 Here are the key factors I believe make up the Great Branding Recession:
