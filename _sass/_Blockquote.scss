@@ -1,0 +1,18 @@
+
+// Blockquote
+// ––––––––––––––––––––––––––––––––––––––––––––––––––
+
+blockquote {
+	border-left: 0.3rem solid $color-primary;
+	margin-left: 0;
+	margin-right: 0;
+	padding: 1rem 1.5rem;
+
+	p {
+		font-style: italic;
+	}
+
+	& *:last-child {
+		margin: 0;
+	}
+}

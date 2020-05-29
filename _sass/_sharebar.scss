@@ -1,0 +1,23 @@
+/* Share bar */
+.share-page {
+  text-align: center;
+  color: $color-primary;
+  padding: 6px 14px;
+  margin-top: 10px;
+  font-size: 14px;
+  a {
+    font-size: 14px;
+    font-weight: 400;
+    color: $color-primary;
+    text-decoration: none;
+    background-image: none;
+    margin-left: 10px;
+    &:hover {
+      color: $color-primary;
+      background-image: linear-gradient(to bottom, white 75%, $color-primary 75%);
+      background-size: 2px 3px;
+      background-position: 0 15px;
+      background-repeat: repeat-x;
+    }
+  }
+}

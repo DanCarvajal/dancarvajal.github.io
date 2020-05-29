@@ -1,0 +1,34 @@
+
+// Base
+// ––––––––––––––––––––––––––––––––––––––––––––––––––
+
+// The base font-size is set at 62.5% for having the convenience
+// of sizing rems in a way that is similar to using px. 1.6rem=16px
+html {
+	box-sizing: border-box;
+	font-size: 62.5%;
+}
+
+body {
+	color: $color-secondary;
+	font-family: 'Work Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-size: 1.625em; // currently ems cause chrome bug misinterpreting rems on body element
+	font-weight: 400;
+	letter-spacing: -.05rem;
+	line-height: 1.8823529411764706em;
+}
+
+// Box Sizing FTW
+*,
+*:after,
+*:before {
+	box-sizing: border-box;
+}
+
+footer {
+	text-align: center;
+}
+
+footer > a {
+    margin: 0 1rem;
+}

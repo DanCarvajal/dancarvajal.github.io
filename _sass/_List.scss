@@ -1,0 +1,45 @@
+
+// List
+// ––––––––––––––––––––––––––––––––––––––––––––––––––
+
+dl,
+ol,
+ul {
+	margin-top: 0;
+	padding: 0 4rem;
+
+	dl
+	ul,
+	ol {
+		font-size: 90%;
+		margin: 1.5rem 0 1.5rem 3.0rem;
+	}
+}
+
+dl {
+	list-style: none;
+}
+
+ul {
+	list-style: disk;
+}
+
+ol {
+	list-style: decimal inside;
+}
+
+dt,
+dd,
+li {
+	margin-bottom: 1.0rem;
+}
+
+.list-inline {
+    padding-left: 0;
+    list-style: none;
+    margin-left: -5px;
+		display: inline;
+}
+.text-center {
+    text-align: center;
+}
